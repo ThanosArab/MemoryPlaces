@@ -180,7 +180,8 @@
                 android:padding="10dp"
                 android:text="SAVE"
                 android:textStyle="bold"
-                android:textSize="18sp"/>
+                android:textSize="18sp"
+                android:backgroundTint="@color/blueSecondary"/>
 
         </LinearLayout>
 
