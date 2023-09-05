@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MemoryPlaces</string>
+    <string name="empty_memory_places_rv">No Memory places have been added. \nPlease insert a new Memory Place</string>
+
+    <string name="google_maps_api_key">Enter your Map API Key</string>
+
+</resources>
